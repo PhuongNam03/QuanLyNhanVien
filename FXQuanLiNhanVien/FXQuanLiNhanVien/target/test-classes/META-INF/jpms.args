@@ -1,0 +1,4 @@
+--patch-module
+com.nvn.fxquanlinhanvien=_
+--add-reads
+com.nvn.fxquanlinhanvien=ALL-UNNAMED
